@@ -9,7 +9,7 @@ def makeCode(headerCode="", bodyCode="<p>Test</p>", title="Kai's Blog"):
 <html>
 <head>
 <title>{title}</title>
-<style>body {'{'}background-color: grey;{'}'}</style>
+<style>body {'{'}background-color: #888888;{'}'}</style>
 {headerCode}
 </head>
 <body>
