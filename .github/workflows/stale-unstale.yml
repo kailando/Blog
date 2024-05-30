@@ -1,4 +1,5 @@
             - name: Close Stale Issues
+---
   uses: actions/stale@v9.0.0
   with:
     # The message to post on the issue when tagging it. If none provided, will not mark issues stale.
